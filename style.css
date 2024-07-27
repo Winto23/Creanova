@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Cambo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cambo&family=Fresca&display=swap');
+
+/* fonts  */
+.ff-cambo{
+    font-family: "Cambo", serif;
+}
+.ff-fresca{
+    font-family: "Fresca", sans-serif;
+}
+/* navigation-bar  */
+.bg-nav{
+    background-color: #423e37;
+}
+nav a{
+    color: white !important;
+}
+.nav-active, .nav-item a:hover{
+    /* scale: 1.1;  */
+    border-bottom: 2px solid;
+}
+/* carousel section  */
+.carousel-caption{
+    background-color: black;
+    opacity: 0.6;
+}
+/* mentor-section  */
+.mentor{
+    width: 90%;
+    margin: auto;
+}
+/* footer section  */
+footer ul li a{
+    text-decoration: none;
+}
+footer ul{
+    list-style-type: none;
+}
+/* about us page  */
+.about-img{
+    width: 100%;
+}
